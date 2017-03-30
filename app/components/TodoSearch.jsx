@@ -11,7 +11,7 @@ var TodoSearch = React.createClass({
 		return (
 			<div>
 				<div>
-searchText			<input type="text" ref="searchText" placeholder="Search todos" onChange={this.handleSearch}/>
+					<input type="text" ref="searchText" placeholder="Search todos" onChange={this.handleSearch}/>
 				</div>
 				<div>
 					<label>
