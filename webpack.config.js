@@ -22,7 +22,7 @@ module.exports = {
   },
   resolve: {
     root: __dirname,
-    modulesDirectories:[ 
+    modulesDirectories: [
       'node_modules',
       './app/components',
       './app/api'
