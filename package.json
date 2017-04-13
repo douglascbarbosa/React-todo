@@ -44,5 +44,14 @@
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglascbarbosa/React-todo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/douglascbarbosa/React-todo/issues"
+  },
+  "homepage": "https://github.com/douglascbarbosa/React-todo#readme"
 }
